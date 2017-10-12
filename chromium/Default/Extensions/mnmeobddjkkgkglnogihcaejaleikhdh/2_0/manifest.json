@@ -1,0 +1,39 @@
+{
+   "default_locale": "en",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRUFhcpxiQuuFjCnmnGLH3c1NbE9qrUaL4VIBKXshve3Kb4H+vDmYzUBlM4pxohMi36a/ebQBRU0TZpVq+kQ/6SwAKvXECuRP+4OzZJk2kpGa88g07uXb0G+cXtAPa6fetZ+xRZcJb9YU/iBeg6kxEeUR77fVpr4Go64Hab2zo/QIDAQAB",
+   "name": "__MSG_themeName__",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 0, 0, 0 ],
+         "ntp_background": [ 0, 0, 0 ],
+         "ntp_header": [ 0, 0, 0, 1 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_section": [ 74, 74, 74, 0.5 ],
+         "ntp_section_link": [ 255, 255, 255 ],
+         "ntp_section_text": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 74, 74, 74 ]
+      },
+      "images": {
+         "theme_button_background": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUY1vcCDA",
+         "theme_frame": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUY9-8CDA",
+         "theme_ntp_attribution": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUYt8IEDA",
+         "theme_ntp_background": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUY9q0DDA",
+         "theme_tab_background": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUYwv8CDA",
+         "theme_toolbar": "i/agxjaHJvbWV0aGVtZXNyDAsSBEZpbGUY1fcCDA"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ 1, 1, 1 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2"
+}

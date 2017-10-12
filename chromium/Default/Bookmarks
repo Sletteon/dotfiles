@@ -1,0 +1,62 @@
+{
+   "checksum": "972f40cf162bc8344e0efcaaeddaa1a9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13143999428933074",
+            "id": "6",
+            "name": "Nanopool | Ethereum | Account",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "https://eth.nanopool.org/account/0x0ceece5d82506ba7bd0e6655b338b15c278256f7"
+         }, {
+            "date_added": "13145206671637135",
+            "id": "7",
+            "name": "ShapeShift | Cryptocurrency Exchange | Simple Coin Conversion",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "https://shapeshift.io/#/inputs/2"
+         }, {
+            "date_added": "13145531068240323",
+            "id": "9",
+            "name": "Bitcoin vásárlás forintért - MrCoin",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "https://www.mrcoin.eu/hu/atm"
+         }, {
+            "date_added": "13151700764344916",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13151847324432109"
+            },
+            "name": "Watch Mr Robot - Season 1 For Free On hdonline.to",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://hdonline.to/watch/mr-robot-season-1-3643?ep=789497"
+         } ],
+         "date_added": "13151011931990454",
+         "date_modified": "13151700764344916",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13151011931990458",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "3",
+      "synced": {
+         "children": [  ],
+         "date_added": "13151011931990459",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

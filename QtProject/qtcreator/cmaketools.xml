@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorCMakeTools>
+<!-- Written by QtCreator 3.5.1, 2017-10-11T21:08:32. -->
+<qtcreator>
+ <data>
+  <variable>CMakeTools.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/usr/bin/cmake</value>
+   <value type="QString" key="DisplayName">System CMake at /usr/bin/cmake</value>
+   <value type="QString" key="Id">{cdffe663-a3b3-4fe7-8cc7-ace1fe5b1583}</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>CMakeTools.Count</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>CMakeTools.Default</variable>
+  <value type="QString">{cdffe663-a3b3-4fe7-8cc7-ace1fe5b1583}</value>
+ </data>
+ <data>
+  <variable>CMakeTools.PreferNinja</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>

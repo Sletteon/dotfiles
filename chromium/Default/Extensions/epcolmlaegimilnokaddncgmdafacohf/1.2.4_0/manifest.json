@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/libs/jquery-3.0.0.min.js", "js/global_options.js", "js/debug_log.js", "js/deluge.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icons/deluge.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_browser_title_disabled__"
+   },
+   "content_scripts": [ {
+      "js": [ "js/libs/jquery-3.0.0.min.js", "js/global_options.js", "js/debug_log.js", "js/add_torrent.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "Provides a quick overview of torrent status for Deluge.",
+   "icons": {
+      "128": "images/icons/128.png",
+      "16": "images/icons/16.png",
+      "32": "images/icons/32.png",
+      "64": "images/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0euY/21RHy/22x12Omo6REPhW6P7FoB5ZK5PnBH8cVsVKL479GNlMWmfTqmuDDYSXILgzfyxqHwCuWtnr+6x/VOwcxBRWM3YJkuaxQU+6UozlABM/FfFb3wNXeiQWjXQeGvtzNTQvzGgqoo+LG+TteOabWZ7bw5Q+E50Gvf3rq8s2IBigJpXt67Lcdt7Rzz2x3Jqw1rOUnRwPX7oo6qS0Jhke4YNQTBAFVeU+JfP24L+yQ7q3vo9sAbTKCEBuh3zHXGM9ROn6QSqzvzGy+w7Pr5sjkzbMPSmT1DVeJuJfl12Q7PEdZtrZ96P5rQTnFqyORDal0PiMdk2kaNCmyUPSwIDAQAB",
+   "manifest_version": 2,
+   "name": "Remote Deluge",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "contextMenus", "storage", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.4",
+   "web_accessible_resources": [ "images/icons/16.png", "images/icons/16_green.png" ]
+}

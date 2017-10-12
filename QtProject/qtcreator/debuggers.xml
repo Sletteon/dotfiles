@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorDebuggers>
+<!-- Written by QtCreator 3.5.1, 2017-10-11T21:08:32. -->
+<qtcreator>
+ <data>
+  <variable>DebuggerItem.0</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="Abis">
+    <value type="QString">x86-linux-generic-elf-64bit</value>
+   </valuelist>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="AutoDetectionSource"></value>
+   <value type="QString" key="Binary">/usr/bin/gdb</value>
+   <value type="QString" key="DisplayName">System GDB at /usr/bin/gdb</value>
+   <value type="int" key="EngineType">1</value>
+   <value type="QString" key="Id">{0ad8446b-f9ef-42c9-9ff8-5d33e28c5f71}</value>
+   <value type="QString" key="Version">7.11.1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>DebuggerItem.Count</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>
