@@ -2,16 +2,16 @@
 nemo-icon-view-auto-layout=true
 nemo-icon-view-tighter-layout=false
 nemo-icon-view-keep-aligned=true
-nemo-icon-view-layout-timestamp=1506537026
+nemo-icon-view-layout-timestamp=1508348169
 
 [computer]
-nemo-icon-position-timestamp=1506537421
-nemo-icon-position=86,32
+nemo-icon-position-timestamp=1508348170
+nemo-icon-position=74,26
 monitor=0
 icon-scale=1
 
 [home]
-nemo-icon-position-timestamp=1506537421
-nemo-icon-position=86,132
+nemo-icon-position-timestamp=1508348170
+nemo-icon-position=74,126
 monitor=0
 icon-scale=1

@@ -3,3 +3,4 @@ showHidden
 show_hidden = true
 help
 show-hidden
+search wpa_supplicant

@@ -1,9 +1,20 @@
-2017/10/11-20:56:56.662 2206 Reusing MANIFEST /home/misi/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2017/10/11-20:56:56.663 2206 Recovering log #366
-2017/10/11-20:56:56.680 2206 Reusing old log /home/misi/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000366.log 
-2017/10/11-20:57:56.683 2910 Level-0 table #372: started
-2017/10/11-20:57:56.802 2910 Level-0 table #372: 2851685 bytes OK
-2017/10/11-20:57:56.862 2910 Delete type=0 #366
-2017/10/11-20:57:59.010 2910 Level-0 table #374: started
-2017/10/11-20:57:59.112 2910 Level-0 table #374: 2851847 bytes OK
-2017/10/11-20:57:59.163 2910 Delete type=0 #371
+2017/10/18-20:58:19.928 21318 Reusing MANIFEST /home/misi/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/10/18-20:58:19.928 21318 Recovering log #875
+2017/10/18-20:58:19.928 21318 Reusing old log /home/misi/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000875.log 
+2017/10/18-20:59:20.877 21712 Level-0 table #879: started
+2017/10/18-20:59:21.021 21712 Level-0 table #879: 2864167 bytes OK
+2017/10/18-20:59:21.055 21712 Delete type=0 #875
+2017/10/18-20:59:21.056 21712 Compacting 4@0 + 2@1 files
+2017/10/18-20:59:21.211 21712 Generated table #880@0: 1 keys, 2863926 bytes
+2017/10/18-20:59:21.255 21712 Generated table #881@0: 2 keys, 382 bytes
+2017/10/18-20:59:21.255 21712 Compacted 4@0 + 2@1 files => 2864308 bytes
+2017/10/18-20:59:21.356 21712 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/10/18-20:59:21.356 21712 Delete type=2 #870
+2017/10/18-20:59:21.356 21712 Delete type=2 #872
+2017/10/18-20:59:21.357 21712 Delete type=2 #876
+2017/10/18-20:59:21.357 21712 Delete type=2 #879
+2017/10/18-20:59:21.358 21712 Delete type=2 #874
+2017/10/18-20:59:21.358 21712 Delete type=2 #869
+2017/10/18-21:00:53.567 21712 Level-0 table #883: started
+2017/10/18-21:00:53.682 21712 Level-0 table #883: 2864207 bytes OK
+2017/10/18-21:00:53.715 21712 Delete type=0 #878

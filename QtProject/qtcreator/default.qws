@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 3.5.1, 2017-10-11T21:08:32. -->
+<!-- Written by QtCreator 3.5.1, 2017-10-16T16:59:52. -->
 <qtcreator>
  <data>
   <variable>Color</variable>
@@ -8,7 +8,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAEAAABOAC8AaABvAG0AZQAvAG0AaQBzAGkALwBwAGwAYQB0AGYAbwByAG0ALQBqAGEAdABlAGsALwBTAEYATQBMAC8ATQBhAGkAbgAuAGgAcABwAAAADAAAAAAYAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAE4ALwBoAG8AbQBlAC8AbQBpAHMAaQAvAHAAbABhAHQAZgBvAHIAbQAtAGoAYQB0AGUAawAvAFMARgBNAEwALwBNAGEAaQBuAC4AaABwAHAAAAAQAE0AYQBpAG4ALgBoAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAqQAAAA1jdXJyZW50ZWRpdG9yAAAATgAvAGgAbwBtAGUALwBtAGkAcwBpAC8AcABsAGEAdABmAG8AcgBtAC0AagBhAHQAZQBrAC8AUwBGAE0ATAAvAE0AYQBpAG4ALgBoAHAAcAAAACYAQwBwAHAARQBkAGkAdABvAHIALgBDACsAKwBFAGQAaQB0AG8AcgAAABgAAAABAAAAAAAAAAAAAAABAAAAAAAAAAA=</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAAAAAAAAAAACQAAAAVlbXB0eQ==</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -16,7 +16,13 @@
  </data>
  <data>
   <variable>ProjectList</variable>
-  <valuelist type="QVariantList"/>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/misi/Projects/bongeszo/src/untitled.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/misi/Projects/bongeszo/src/untitled.pro</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -40,6 +46,10 @@
    <valuelist type="QVariantList">
     <value type="QString">session</value>
     <value type="QString">session</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/misi/Projects/bongeszo/src/untitled.pro</value>
+    <value type="QString">untitled</value>
    </valuelist>
   </valuelist>
  </data>

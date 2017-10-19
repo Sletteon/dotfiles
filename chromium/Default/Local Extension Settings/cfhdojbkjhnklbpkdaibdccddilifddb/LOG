@@ -1,25 +1,26 @@
-2017/10/12-18:42:00.431 2501 Reusing MANIFEST /home/misi/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2017/10/12-18:42:00.432 2501 Recovering log #373
-2017/10/12-18:42:01.244 2501 Level-0 table #376: started
-2017/10/12-18:42:01.419 2501 Level-0 table #376: 2857225 bytes OK
-2017/10/12-18:42:01.586 2501 Delete type=0 #373
-2017/10/12-18:43:01.092 2582 Level-0 table #379: started
-2017/10/12-18:43:01.214 2582 Level-0 table #379: 2857380 bytes OK
-2017/10/12-18:43:01.253 2582 Delete type=0 #377
-2017/10/12-18:43:01.255 2582 Compacting 4@0 + 2@1 files
-2017/10/12-18:43:01.373 2582 Generated table #380@0: 1 keys, 2857228 bytes
-2017/10/12-18:43:01.407 2582 Generated table #381@0: 2 keys, 338 bytes
-2017/10/12-18:43:01.407 2582 Compacted 4@0 + 2@1 files => 2857566 bytes
-2017/10/12-18:43:01.457 2582 compacted to: files[ 0 2 1 0 0 0 0 ]
-2017/10/12-18:43:01.457 2582 Delete type=2 #379
-2017/10/12-18:43:01.459 2582 Delete type=2 #369
-2017/10/12-18:43:01.459 2582 Delete type=2 #368
-2017/10/12-18:43:01.460 2582 Delete type=2 #372
-2017/10/12-18:43:01.460 2582 Delete type=2 #376
-2017/10/12-18:43:01.461 2582 Delete type=2 #374
-2017/10/12-18:43:03.333 2582 Level-0 table #383: started
-2017/10/12-18:43:03.433 2582 Level-0 table #383: 2857468 bytes OK
-2017/10/12-18:43:03.466 2582 Delete type=0 #378
-2017/10/12-18:43:22.877 2582 Level-0 table #385: started
-2017/10/12-18:43:22.986 2582 Level-0 table #385: 2859013 bytes OK
-2017/10/12-18:43:23.020 2582 Delete type=0 #382
+2017/10/19-17:38:01.203 1972 Reusing MANIFEST /home/misi/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/10/19-17:38:01.204 1972 Recovering log #882
+2017/10/19-17:38:01.313 1972 Reusing old log /home/misi/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000882.log 
+2017/10/19-17:39:03.149 2532 Level-0 table #886: started
+2017/10/19-17:39:03.305 2532 Level-0 table #886: 2864134 bytes OK
+2017/10/19-17:39:03.340 2532 Delete type=0 #882
+2017/10/19-17:39:05.348 2532 Level-0 table #888: started
+2017/10/19-17:39:05.463 2532 Level-0 table #888: 2864207 bytes OK
+2017/10/19-17:39:05.497 2532 Delete type=0 #885
+2017/10/19-17:39:06.535 2532 Level-0 table #890: started
+2017/10/19-17:39:06.642 2532 Level-0 table #890: 2864053 bytes OK
+2017/10/19-17:39:06.675 2532 Delete type=0 #887
+2017/10/19-17:39:06.677 2532 Compacting 4@0 + 2@1 files
+2017/10/19-17:39:06.798 2532 Generated table #891@0: 1 keys, 2864053 bytes
+2017/10/19-17:39:06.832 2532 Generated table #892@0: 2 keys, 382 bytes
+2017/10/19-17:39:06.832 2532 Compacted 4@0 + 2@1 files => 2864435 bytes
+2017/10/19-17:39:07.310 2532 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/10/19-17:39:07.311 2532 Delete type=2 #886
+2017/10/19-17:39:07.312 2532 Delete type=2 #880
+2017/10/19-17:39:07.313 2532 Delete type=2 #883
+2017/10/19-17:39:07.313 2532 Delete type=2 #888
+2017/10/19-17:39:07.315 2532 Delete type=2 #881
+2017/10/19-17:39:07.315 2532 Delete type=2 #890
+2017/10/19-17:39:35.199 2532 Level-0 table #894: started
+2017/10/19-17:39:35.356 2532 Level-0 table #894: 2863992 bytes OK
+2017/10/19-17:39:35.401 2532 Delete type=0 #889
